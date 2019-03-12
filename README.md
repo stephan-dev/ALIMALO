@@ -1,6 +1,6 @@
 # ALIMALO
 
-## C'est la branche développement qui est déployée sur heroku.
+### C'est la branche développement qui est déployée sur heroku.
 
 Appli pour les noctambules qui cherchent à se ravitailler tard à Paris.
 
@@ -14,6 +14,16 @@ Les barres transparentes verticales (desktop) ou horizontales (mobile) servent �
 fonction time.now : L'utilisateur en manque de ravitaillement voit en direct quelles épiceries sont ouvertes ou fermées.
 
 Mobile first : le design de l'app est complètement responsive, et vise avant tout l'expérience mobile (notre noctambule qui cherche une épicerie encore ouverte)
+
+Calcul de la distance entre le point de géolocalisation et l'épicerie choisie
+
+Bouton itinéraire qui envoie sur google maps (itinéraire préchargé)
+
+## Autre
+
+Active Record fait le lien entre photos et le cloud
+
+Inscription (pour les épiciers) avec confirmation par mail
 
 
 ## Groupe THP (ordre alphabétique)
